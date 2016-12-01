@@ -11,4 +11,4 @@ Qt study
 ![Curve show](Curve/效果.png)
 
 4. Music Player
-![Music Player show](Curve/效果.png)
+![Music Player show](QtMusic/效果.png)
