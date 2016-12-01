@@ -9,3 +9,6 @@ Qt study
 
 3. Curve  
 ![Curve show](Curve/效果.png)
+
+4. Music Player
+![Music Player show](Curve/效果.png)

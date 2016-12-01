@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>image/close1.png</file>
+        <file>image/close2.png</file>
+        <file>image/max1.png</file>
+        <file>image/max2.png</file>
+        <file>image/min1.png</file>
+        <file>image/min2.png</file>
+        <file>image/restore1.png</file>
+        <file>image/restore2.png</file>
+        <file>image/leftButton1.png</file>
+        <file>image/leftButton2.png</file>
+        <file>image/pauseButton1.png</file>
+        <file>image/pauseButton2.png</file>
+        <file>image/playButton1.png</file>
+        <file>image/playButton2.png</file>
+        <file>image/rightButton2.png</file>
+        <file>image/rightButton1.png</file>
+        <file>image/musicIcon.png</file>
+        <file>image/icon.png</file>
+    </qresource>
+</RCC>

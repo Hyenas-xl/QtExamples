@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menus>
+    <menu name="songMenu">
+        <item name="1" selected="0"/>
+        <item name="2" selected="0"/>
+        <item name="3" selected="1"/>
+    </menu>
+</menus>
